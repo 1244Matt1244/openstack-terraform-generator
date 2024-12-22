@@ -1,0 +1,21 @@
+{
+    "subnets": ["network_1", "network_2"],
+    "computers": [
+      {
+        "id": "test_1",
+        "name": "First computer",
+        "networks": ["network_1"]
+      },
+      {
+        "id": "test_2",
+        "name": "Second computer",
+        "networks": ["network_1"]
+      },
+      {
+        "id": "test_3",
+        "name": "Third computer",
+        "networks": ["network_2"]
+      }
+    ]
+  }
+  
