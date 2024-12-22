@@ -1,6 +1,6 @@
 # Terraform Konfiguracija za OpenStack Resurse
 
-Ova skripta (`2024_11_06-test.py`) generira Terraform konfiguraciju za mrežne resurse u OpenStack-u na temelju ulazne JSON datoteke s podacima o mrežnim podmrežama i računalnim instancama.
+Ova skripta (`2024_11_06_test.py`) generira Terraform konfiguraciju za mrežne resurse u OpenStack-u na temelju ulazne JSON datoteke s podacima o mrežnim podmrežama i računalnim instancama.
 
 ## Funkcionalnosti
 
